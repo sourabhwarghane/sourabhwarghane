@@ -235,7 +235,7 @@ Alongside my main projects, I maintain practical notebooks and experiments cover
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv\&logoColor=white)
 
-`YOLOv8` • `Computer Vision` • `Deep Learning` • `NLP` • `RAG` • `LLMs`
+`YOLOv8n` • `Computer Vision` • `Deep Learning` • `NLP` • `RAG` • `LLMs`
 
 ### Robotics
 
@@ -318,12 +318,6 @@ My long-term focus is at the intersection of:
 ---
 
 # 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/sourabhwarghane">
-  <img src="https://img.shields.io/badge/GitHub-sourabhwarghane-181717?logo=github&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/sourabh-warghane/">
   <img src="https://img.shields.io/badge/LinkedIn-Sourabh%20Warghane-0A66C2?logo=linkedin&logoColor=white"/>
