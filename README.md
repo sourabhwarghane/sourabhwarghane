@@ -308,15 +308,6 @@ My long-term focus is at the intersection of:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhwarghane&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhwarghane&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/sourabh-warghane/">
