@@ -97,7 +97,7 @@ This project gave me hands-on experience with the complete robotics workflow:
 
 A full edge-AI robotic system combining perception, tracking, obstacle detection, person following, voice interaction, embedded motor control, and safety monitoring.
 
-🔗 [View Repository](https://github.com/sourabhwarghane/my_robot)
+🔗 [View Repository](https://github.com/sourabhwarghane/Autonomous_Mobile_Robot)
 
 ---
 
